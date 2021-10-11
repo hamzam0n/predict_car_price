@@ -1,6 +1,6 @@
 # predict_car_price
 
-##The project objective
+## The project objective
 
 Our project is based on the idea that someone may think of setting a new automotive
 company in the US market for example with a manufacturing unit there and cars produc-
